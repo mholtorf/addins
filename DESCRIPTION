@@ -1,0 +1,16 @@
+Package: addins
+Type: Package
+Title: Addins
+Version: 0.1.0
+Author: Megan Holtorf
+Maintainer: Megan Holtorf <megan.holtorf@gmail.com>
+Description: This package contains addins 
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.0.0)
+Imports:
+    rstudioapi (>= 0.4)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE, roclets = c("rd", "namespace", "collate"))
+RoxygenNote: 7.2.1

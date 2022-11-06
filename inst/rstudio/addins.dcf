@@ -1,0 +1,24 @@
+Name: Insert dashes to 80
+Description: Inserts insert dashes until column 80.
+Binding: insert_dashes
+Interactive: false
+
+Name: Launch RStudio
+Description: Launch a new project-less RStudio session.
+Binding: launch_rstudio
+Interactive: false
+
+Name: Use teaching mode
+Description: Use default theme in RStudio for teaching.
+Binding: use_teach_mode
+Interactive: false
+
+Name: Use daytime theme
+Description: Use daytime theme in RStudio: Solarized Light.
+Binding: use_daytime_theme
+Interactive: false
+
+Name: Use nighttime theme
+Description: Use nighttime theme in RStudio: Solarized Dark.
+Binding: use_nighttime_theme
+Interactive: false
