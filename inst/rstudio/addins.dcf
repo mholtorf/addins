@@ -1,6 +1,11 @@
 Name: Insert dashes to 80
-Description: Inserts insert dashes until column 80.
+Description: Inserts dashes until column 80.
 Binding: insert_dashes
+Interactive: false
+
+Name: Insert header to 80
+Description: Inserts comment header until column 80.
+Binding: insert_header
 Interactive: false
 
 Name: Launch RStudio
@@ -19,6 +24,6 @@ Binding: use_daytime_theme
 Interactive: false
 
 Name: Use nighttime theme
-Description: Use nighttime theme in RStudio: Solarized Dark.
+Description: Use nighttime theme in RStudio: Material.
 Binding: use_nighttime_theme
 Interactive: false
